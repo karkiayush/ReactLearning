@@ -1,0 +1,21 @@
+h1 {
+  background-color: rgb(255, 166, 0);
+  font-family: Helvitika, sans-serif;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.button {
+  background-color: burlywood;
+  border-radius: 6px;
+  margin-right: 1em;
+  border: 3px solid black;
+  color: white;
+  padding: 0.3em 0.4em;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+  text-align: center;
+}
