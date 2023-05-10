@@ -1,0 +1,56 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: rgb(3, 82, 119);
+}
+
+.heading-div {
+  background-color: purple;
+}
+
+.top-heading {
+  text-align: center;
+  color: white;
+  padding: 0.5em;
+}
+
+.nav-div {
+  margin-top: 2em;
+  text-align: center;
+}
+
+ul a {
+  color: black;
+  margin: 1em;
+  text-decoration: none;
+  background-color: lightgreen;
+  padding: 1em;
+  /* height: .1em; */
+  border-radius: 1em;
+  /* text-align: center; */
+}
+
+.counter-div {
+  margin-top: 2em;
+  margin-left: 2em;
+  /* display: flex; */
+  text-align: center;
+  /* margin: auto; */
+}
+
+.counter-value {
+  color: cyan;
+  /* color: white; */
+  /* text-align:center; */
+}
+
+.button {
+  padding: 0.3em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+  border-radius: 6px;
+  margin-left: 2em;
+  text-align: center;
+}
