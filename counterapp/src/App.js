@@ -1,3 +1,4 @@
+// useState is one of the hooks in react that is used here 
 import React, { useState } from "react";
 
 const App = () => {
